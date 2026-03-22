@@ -419,6 +419,8 @@ inbox: X件 未処理
 
 - 部署別テンプレート: `references/departments.md`
 - CLAUDE.md 生成テンプレート: `references/claude-md-template.md`
+- Claude Code チーム運用ガイド: `references/claude-code-team-leader-guide.md`
+- Claude Code チーム運用ガイド: `references/claude-code-team-leader-guide.md`
 
 ---
 
