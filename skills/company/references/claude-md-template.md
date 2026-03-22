@@ -170,6 +170,7 @@ site: unknown    # sanda | himeji | both | unknown
 | 未来設計の企画・テーマ | future-design/ | 中長期改善活動 |
 | 他部門・外部とのやりとり | collaboration/ | 自チーム外との情報やりとり |
 | 技術的な知見・検証 | tech-knowledge/ | 技術的学び・トラブル対処 |
+| リーダーシップ・育成 | leadership/ | 委譲・コーチング・チーム診断・動機付け |
 | 振り返り・報告 | reviews/ | 実績集計・報告資料 |
 
 ### Step 4: 複数意図の場合
@@ -237,3 +238,4 @@ archive移動条件: status が completed かつ最終deliverable承認後、秘
 | プロジェクト管理 | projects | PJ進捗・マイルストーン・リスク・課題・展開先マップ。 |
 | 連携・依頼管理 | collaboration | 社内外の依頼追跡・ステークホルダー・判断記録。 |
 | 技術ナレッジ | tech-knowledge | 設計書・検証ログ・障害対応ログ・標準化・横展開チェック。 |
+| リーダーシップ | leadership | コーチング・チーム診断・委譲記録・リーダーシップフレームワーク。 |
